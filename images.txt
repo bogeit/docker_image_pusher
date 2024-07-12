@@ -1,2 +1,2 @@
 oliver006/redis_exporter:v1.61.0
-python:alipine:3.19
+python:alipine3.19
