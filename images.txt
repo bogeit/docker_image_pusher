@@ -1,3 +1,4 @@
 oliver006/redis_exporter:v1.61.0
 nginx:1.25.3
-mysql:8.0.37
+mysql:8.0.38
+
