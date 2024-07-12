@@ -1,2 +1,1 @@
-oliver006/redis_exporter:v1.61.0
 mysql:8.0.37
