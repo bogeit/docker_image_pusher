@@ -1,1 +1,1 @@
-oliver006/redis_exporter:v1.61.0
+jumpserver/chen:v3.10.12
