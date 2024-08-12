@@ -1,1 +1,1 @@
-apache/hertzbeat:v1.6.0
+bitnami/elasticsearch-exporter:1.5.0-debian-11-r106
