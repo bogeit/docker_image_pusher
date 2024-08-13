@@ -1,1 +1,1 @@
-jumpserver/chen:v3.10.12
+zabbix:latest
