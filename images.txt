@@ -1,1 +1,1 @@
-zabbix/zabbix-java-gateway:alpine-6.2-latest
+nginx:1.24.0
