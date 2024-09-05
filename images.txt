@@ -1,1 +1,1 @@
-nginx:1.24.0
+tomcat:jre8-alpine
