@@ -1,3 +1,4 @@
 oliver006/redis_exporter:v1.61.0
-honmashironeko/arl-docker-initial
+mysql:8.0.37
+
 
