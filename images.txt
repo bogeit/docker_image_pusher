@@ -1,14 +1,5 @@
 oliver006/redis_exporter:v1.61.0
-goharbor/nginx-photon:v2.6.1
-goharbor/redis-photon:v2.6.1                                                  
-goharbor/harbor-registryctl:v2.6.1                                      
-goharbor/registry-photon:v2.6.1                                            
-goharbor/harbor-log:v2.6.1                                                     
-goharbor/harbor-jobservice:v2.6.1                                                
-goharbor/harbor-core:v2.6.1                                                    
-goharbor/harbor-portal:v2.6.1                                                     
-goharbor/harbor-db:v2.6.1                                                         
-goharbor/prepare:v2.6.1  
+kasmweb/ubuntu-bionic-desktop
 
 
 
