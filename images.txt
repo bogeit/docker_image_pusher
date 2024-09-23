@@ -1,1 +1,2 @@
 traefik/whoami:v1.10
+goharbor/redis-photon:v2.6.1
