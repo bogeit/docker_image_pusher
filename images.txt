@@ -1,5 +1,5 @@
 oliver006/redis_exporter:v1.61.0
-nacos/nacos-server:2.4.0
+nacos/nacos-server:2.3.3
 
 
 
