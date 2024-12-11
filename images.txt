@@ -1,1 +1,1 @@
-nginx:1.1.24
+nginx:stable
