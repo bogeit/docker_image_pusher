@@ -1,1 +1,1 @@
-cloudcanal_sidecar_volume:latest
+nginx:1.1.24
