@@ -1,1 +1,1 @@
-nginx:stable
+cloudcanal_sidecar_volume:latest
