@@ -1,1 +1,1 @@
-cloudcanal_sidecar_volume:latest
+nacos/nacos-server:v2.0.4
