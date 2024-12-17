@@ -1,5 +1,5 @@
 oliver006/redis_exporter:v1.61.0
-arm64v8/alpine:latest
+alpine:latest-arm64v8
 
 
 
