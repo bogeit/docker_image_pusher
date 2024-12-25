@@ -1,5 +1,9 @@
 oliver006/redis_exporter:v1.61.0
-wenyangchou/centos:7-mysql
+mysql:5.7
+zabbix/zabbix-java-gateway:latest
+zabbix/zabbix-server-mysql:latest
+zabbix/zabbix-web-nginx-mysql:latest
+
 
 
 
