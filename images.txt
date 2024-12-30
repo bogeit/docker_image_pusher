@@ -1,1 +1,1 @@
-openjdk:8u102-jdk
+openjdk:8-jdk-alpine
