@@ -1,1 +1,1 @@
-tomcat:8.5.65-jdk8
+ubuntu:22.04
