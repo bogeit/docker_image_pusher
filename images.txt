@@ -1,1 +1,1 @@
-zookeeper:3.4.9
+ rmohr/activemq:5.14.5
