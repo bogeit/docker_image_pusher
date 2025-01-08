@@ -1,1 +1,1 @@
- rmohr/activemq:5.14.5
+redis:6.0.5
