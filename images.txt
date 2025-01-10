@@ -1,6 +1,6 @@
 oliver006/redis_exporter:v1.61.0
 zabbix/zabbix-web-nginx-mysql:latest
-nginx:1.22.2
+nginx:1.23.2
 
 
 
