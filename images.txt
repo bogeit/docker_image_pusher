@@ -1,1 +1,1 @@
-redis:6.0.5
+amir20/dozzle:latest
