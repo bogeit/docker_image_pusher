@@ -1,1 +1,1 @@
-amir20/dozzle:latest
+postgres:12.6-alpine
