@@ -1,11 +1,1 @@
-docker.io/bogeit/alertmanager:v0.26.0
-docker.io/bogeit/blackbox-exporter:v0.24.0
-docker.io/bogeit/grafana:9.5.3
-docker.io/bogeit/kube-rbac-proxy:v0.14.2
-docker.io/bogeit/kube-router
-docker.io/bogeit/kube-state-metrics:v2.9.2
-docker.io/bogeit/node-exporter:v1.6.1
-docker.io/bogeit/prometheus-adapter:v0.11.1
-docker.io/bogeit/prometheus_demo_service
-docker.io/bogeit/prometheus-operator:v0.67.1
-docker.io/bogeit/prometheus:v2.46.0
+quay.io/prometheus-operator/prometheus-config-reloader:v0.67.1
