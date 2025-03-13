@@ -1,1 +1,1 @@
-nightingale:7.7.0
+flashcatcloud/nightingale:7.7.0
