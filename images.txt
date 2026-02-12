@@ -1,1 +1,1 @@
-greptime/greptimedb:v0.15.3
+scratch
