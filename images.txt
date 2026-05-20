@@ -1,1 +1,1 @@
-flashcatcloud/categraf:v0.5.7
+flashcatcloud/categraf:v0.4.32
