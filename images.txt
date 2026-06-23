@@ -1,1 +1,1 @@
-golang:1.25.11-alpine3.24
+timberio/vector:0.50.0-distroless-libc
