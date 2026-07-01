@@ -1,1 +1,1 @@
-timberio/vector:0.50.0-distroless-libc
+python:3.12.13-slim-trixie
