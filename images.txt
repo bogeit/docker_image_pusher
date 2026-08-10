@@ -1,1 +1,1 @@
-enmotech/opengauss:6.0.0
+suoten/protoforge:latest
