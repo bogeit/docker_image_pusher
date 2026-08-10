@@ -1,1 +1,1 @@
-frolvlad/alpine-glibc:alpine-3.22_glibc-2.42
+suoten/protoforge:sha-de19909
