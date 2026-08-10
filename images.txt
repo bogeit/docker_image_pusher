@@ -1,1 +1,1 @@
-suoten/protoforge:latest
+suoten/protoforge:sha-de19909
