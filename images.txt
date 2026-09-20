@@ -1,1 +1,1 @@
-alpine:3.22.5
+openobserve/openobserve:v1.0.3
