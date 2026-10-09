@@ -1,1 +1,2 @@
-openobserve/openobserve:v1.0.3
+ghcr.io/astaxie/tokenhub-backend:0.9.0
+postgres:17.11-alpine3.24
