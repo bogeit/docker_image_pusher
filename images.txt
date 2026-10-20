@@ -1,1 +1,1 @@
-gitlab/gitlab-runner:v18.11.4
+gitlab/gitlab-ce:17.3.7-ce.0
