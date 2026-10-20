@@ -1,2 +1,1 @@
-ghcr.io/astaxie/tokenhub-backend:0.9.0
-postgres:17.11-alpine3.24
+gitlab/gitlab-ce:18.11.12-ce.0
