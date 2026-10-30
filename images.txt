@@ -1,1 +1,3 @@
-alpine:3.23.7
+falcosecurity/falco:0.45.2
+falcosecurity/falco-driver-loader:0.45.2
+falcosecurity/falcoctl:0.14
