@@ -1,2 +1,1 @@
-falcosecurity/falco-driver-loader:0.45.2
-falcosecurity/falcoctl:0.14
+gitlab/gitlab-ce:18.11.14-ce.0
