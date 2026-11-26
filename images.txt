@@ -1,1 +1,1 @@
-alpine:3.23.8
+gitlab/gitlab-ce:18.11.15-ce.0
